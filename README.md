@@ -111,11 +111,11 @@ The resulting JSON structure:
 
 ```json
 {
-    "total": 1299,
+    "total": 8,
     "business": "Supermarket X",
     "items": [
-        {"title": "Milk", "quantity": 2, "price": 299},
-        {"title": "Bread", "quantity": 1, "price": 199}
+        {"title": "Milk", "quantity": 2, "price": 3},
+        {"title": "Bread", "quantity": 1, "price": 2}
     ],
     "transaction_timestamp": "2024-12-15T10:34:00Z"
 }
